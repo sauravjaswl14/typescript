@@ -1,0 +1,9 @@
+//Type on the left side of equal sign
+
+// Types must be all lowercased
+let myVar: type = value;
+
+Any
+----
+'any' is an escape hatch! It turns off type checking for this variable so you can do your thing.
+NOTE: it sort of defeats the purpose of TS and types, so use it sparingly!
